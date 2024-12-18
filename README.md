@@ -46,10 +46,10 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=missionshrestha&show_icons=true&locale=en&layout=compact" alt="missionshrestha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mission-shrestha-tech&show_icons=true&locale=en&layout=compact" alt="mission-shrestha-tech" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=missionshrestha&show_icons=true&locale=en" alt="missionshrestha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mission-shrestha-tech&show_icons=true&locale=en" alt="mission-shrestha-tech" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=missionshrestha&" alt="missionshrestha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mission-shrestha-tech&" alt="mission-shrestha-tech" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=missionshrestha" alt="missionshrestha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mission-shrestha-tech" alt="mission-shrestha-tech" /></a> </p>
